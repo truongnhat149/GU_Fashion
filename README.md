@@ -8,8 +8,9 @@
 + PHAN QUANG DŨNG
 
 ## Vai trò 
--
-- 
+- NHÓM DEV: LÊ PHÙNG NHẬT TRƯỜNG và PHAN QUAN DŨNG
+- Scrum master: TRẦN VĂN CỬ
+- PO: Bùi Công Bình Minh
 ## Ý tưởng
 ## Các công việc đã làm
 - Phân tích, tạo base source FrondEnd
